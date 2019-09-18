@@ -1,0 +1,187 @@
+{
+  "basics": {
+    "name": "Amaia© Angulo",
+    "label": "Business Developer",
+    "picture": "face.jpg",
+    "email": "angulamacr@gmail.com",
+    "website": "https://amaiaangulo.com",
+    "summary": "Passionate about energy and new business models.\nDon't tell me something is impossible until you fail.",
+    "location": {
+      "countryCode": "ES",
+      "region": "Basque Country"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aanguloc",
+        "url": "https://www.linkedin.com/in/aanguloc/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Repsol",
+      "position": "Business Devolopment Manager",
+      "website": "https://www.repsol.com",
+      "startDate": "2014-04-01",
+      "summary": "New products and services feasibility analysis and development.",
+    },
+    {
+      "company": "IBIL, ",
+      "position": "Sales Directorr",
+      "website": "https://www.ibil.es",
+      "startDate": "2016-05-19",
+      "endDate": "2017-10-20"
+      "highlights": [
+        "Company founded by Repsol and the Basque Energy Agency to provide charging services for electric vehicles.",
+        "Regional sales managers coordination and strategic/ large accounts management.",
+        "New customer-centric products and services development."
+      ]
+    },
+    {
+      "company": "Stratio",
+      "position": "Big Data Software Developer",
+      "website": "https://www.stratio.com",
+      "startDate": "2015-08-01",
+      "endDate": "2016-05-01"
+    },
+    {
+      "company": "Fon",
+      "position": "Java Developer",
+      "website": "https://fon.com",
+      "startDate": "2012-08-01",
+      "endDate": "2015-08-01"
+    },
+    {
+      "company": "Drago Solutions",
+      "position": "Java Developer",
+      "website": "http://www.dragosolutions.com",
+      "startDate": "2011-01-01",
+      "endDate": "2012-08-01"
+    }
+  ],
+  "education": [],
+  "skills": [
+    {
+      "name": "Programming languages",
+      "keywords": [
+        "Java",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Spring",
+        "Springboot",
+        "Spark"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "Unit Test",
+        "Integration Test",
+        "TDD",
+        "BDD",
+        "Cucumber",
+        "PHPUnit",
+        "JUnit"
+      ]
+    },
+    {
+      "name": "Scrum",
+      "level": "Certified",
+      "keywords": [
+        "Expert Scrum Foundations"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Certified",
+      "keywords": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MySQL",
+        "Elasticsearch",
+        "HBase",
+        "DynamoDB"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "keywords": [
+        "Jenkins",
+        "TeamCity",
+        "Docker",
+        "Mesos",
+        "Marathon"
+      ]
+    },
+    {
+      "name": "Dependency managers",
+      "keywords": [
+        "Composer",
+        "Maven",
+        "Gradle"
+      ]
+    },
+    {
+      "name": "IDEs",
+      "level": "",
+      "keywords": [
+        "IntelliJ",
+        "PhpStorm"
+      ]
+    },
+    {
+      "name": "Operative Systems",
+      "keywords": [
+        "Ubuntu",
+        "macOS"
+      ]
+    },
+    {
+      "name": "Other skills",
+      "keywords": [
+        "Jira",
+        "Confluence",
+        "Git",
+        "Bitbucket"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Concerts",
+        "Festivals"
+      ]
+    },
+    {
+      "name": "Travelling"
+    },
+    {
+      "name": "Series"
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Pilates",
+        "Spinning",
+        "Padel"
+      ]
+    }
+  ]
+}
